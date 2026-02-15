@@ -76,3 +76,10 @@ The project examines how regulatory and governance requirements apply across eac
 ## Purpose of Scope Definition
 
 This scope definition ensures a focused and practical governance analysis rooted in India’s legal framework. It supports the project objective of translating high-level policy and regulatory obligations into concrete functional requirements, governance controls, and compliance mechanisms across the AI system lifecycle. The emphasis is on operationalizing legal duties into measurable and implementable compliance actions at each stage of system development and deployment.
+
+## Core Research Questions
+
+1. How do Indian data protection and copyright laws apply across each stage of the AI data lifecycle in public generative AI systems?
+2. What data-related risks emerge from user interaction and continuous data generation in public-facing AI tools?
+3. How can legal obligations under Indian law be translated into concrete governance controls and safety-by-design mechanisms?
+4. What gaps exist between current AI data practices and regulatory expectations in India?
